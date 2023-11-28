@@ -9708,3 +9708,22 @@ h6,
 #navbarCollapse{
   margin-left: 400px;
 }
+
+@media  (max-width: 320px){
+  .whatsappimg{
+    margin-left: 53px !important;
+  }
+}
+
+
+@media  (max-width: 380px){
+  .whatsappimg{
+    margin-left: 78px!important;
+  }
+}
+
+@media  (max-width: 430px){
+  .whatsappimg{
+    margin-left: 97px!important;
+  }
+}
